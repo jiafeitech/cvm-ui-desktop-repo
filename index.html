@@ -32,11 +32,11 @@
         <th>Last modified</th>
          
       </tr>
-      {% for res in site.static_files %} {% if res.path contains 'x86_64' %}
+      {% for res in site.static_files %} {% if res.path contains 'pkgs' %}
       <tr>
         <td>
           <a class="post-link" href="{{ res.path | prepend: site.baseurl }}"
-            >{{ res.path | remove:'/x86_64/' }}</a
+            >{{ res.path | remove:'/pkgs/' }}</a
           >
         </td>
         <td>{{ res.modified_time | date: "%-d %b, %Y" }}</td>

@@ -1,0 +1,18 @@
+Origin: Cvm UI Desktop
+Label: Cvm UI Desktop 5.2
+Suite: anal
+Codename: anal
+Version: 5.2
+Architectures: amd64
+Components: main
+Description: Cvm UI Desktop 5.2 repository
+Date: Sat, 31 Dec 2022 10:46:21 +0000
+MD5Sum:
+ 526c451667f0dc58c22e48d3b3426fe2 3910 main/binary-amd64/Packages
+ 2acb9c8396617b388690b8670ec2f4cf 1435 main/binary-amd64/Packages.gz
+SHA1:
+ 14bb674323c6d256a454beecb81880abb485573e 3910 main/binary-amd64/Packages
+ 95fe0f5e6d615e2d3f214f1c3ccda346c6bcfa5d 1435 main/binary-amd64/Packages.gz
+SHA256:
+ 310c6d30d02a495ee816fca1ad0a753bc9aa7757c6ca9f95679c04908d4912c6 3910 main/binary-amd64/Packages
+ b716b7eff5e7b98a59ca3a9310c70384ac3d00039a639adebee04480d496b5af 1435 main/binary-amd64/Packages.gz

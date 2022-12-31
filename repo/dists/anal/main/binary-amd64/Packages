@@ -50,6 +50,21 @@ Homepage: https://github.com/jiafeitech/installer/
 Description: Dedicated installer session
  Launches io.elementary.installer in a dedicated session.
 
+Package: ji-amusic
+Version: 1.0.1
+Architecture: amd64
+Maintainer: jiafeitech
+Installed-Size: 10013
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./pool/main/jiamusic/jiamusic_1.0.1_linux_amd64.deb
+Size: 3812102
+MD5sum: 945aeb8075da9fe6f2b305954ec8f7ca
+SHA1: 9ca3023e0987ef6ad3abdab7783363e744c87110
+SHA256: a88bbce6a2fc7ec7fbe3cca70e632d7f4107524b6825aa7d0c79abc21f3f56ea
+Priority: optional
+Description: (none)
+ (none)
+
 Package: libdistinst
 Source: distinst
 Version: 0.3.2

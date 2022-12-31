@@ -19,16 +19,15 @@ Version: 1.0.6
 Architecture: amd64
 Maintainer: Cody Garver <cody@elementary.io>
 Installed-Size: 1441
-Depends: distinst, gparted, io.elementary.greeter, wingpanel, libc6 (>= 2.34), libgee-0.8-2 (>= 0.20.0), libglib2.0-0 (>= 2.63.1), libgnomekbd8 (>= 3.6.0), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.22.29), libhandy-1-0 (>= 1.0.3), libjson-glib-1.0-0 (>= 1.5.2), libpangocairo-1.0-0 (>= 1.14.0), libpwquality1 (>= 1.1.0), libxml2 (>= 2.7.4)
-Recommends: io.elementary.installer-session, io.elementary.onboarding
+Depends: distinst, gparted, libc6 (>= 2.34), libgee-0.8-2 (>= 0.20.0), libglib2.0-0 (>= 2.63.1), libgnomekbd8 (>= 3.6.0), libgranite6 (>= 6.0.0), libgtk-3-0 (>= 3.22.29), libhandy-1-0 (>= 1.0.3), libjson-glib-1.0-0 (>= 1.5.2), libpangocairo-1.0-0 (>= 1.14.0), libpwquality1 (>= 1.1.0), libxml2 (>= 2.7.4)
 Filename: ./pool/main/io.elementary.installer/io.elementary.installer_1.0.6_amd64.deb
-Size: 313862
-MD5sum: 6f320d69ef28b1430971a17be993c549
-SHA1: 12de9a470ff4cbff8178f3c9ccec88135d1e7302
-SHA256: 3a182a69cd677ca233ff1b3fdcf07a6218c48c99b2f69799678210d7530770ae
+Size: 313794
+MD5sum: 77efa2cf350a8ffacd6a06613f73898d
+SHA1: 7f7a3efd51ce7589ede1fe3ae0cf00c5eaba27c1
+SHA256: fb3d9ff0f85a89fe8546dea51eea6c991c1d933fc35692652158d5013a626a0c
 Section: utils
 Priority: extra
-Homepage: https://github.com/elementary/installer
+Homepage: https://github.com/jiafeitech/installer/
 Description: Distribution installer
  Installs distros with ease, all installs are treated as OEM.
 
@@ -41,13 +40,13 @@ Installed-Size: 29
 Depends: io.elementary.installer, lightdm
 Recommends: elementary-default-settings
 Filename: ./pool/main/io.elementary.installer/io.elementary.installer-session_1.0.6_amd64.deb
-Size: 4468
-MD5sum: 152aaea7bddf62c3e0d35f0b9c8f1fa8
-SHA1: 3e5b1e5395edb4f8aa9af4396e5cde2576eb5e08
-SHA256: c15c90c9ea6ff7b4baa683689aa8a54d30998db9816ad3dac25a83ce0ceb9bdf
+Size: 4474
+MD5sum: d08ef4ad065109c63db6535bfb2137cd
+SHA1: a79e48955851a9b8d99ff2024d04cb90ae388b8b
+SHA256: e71220bea198c8a35387074020a43f23dad2758ee300cc3ccf7d0276f15277bf
 Section: utils
 Priority: extra
-Homepage: https://github.com/elementary/installer
+Homepage: https://github.com/jiafeitech/installer/
 Description: Dedicated installer session
  Launches io.elementary.installer in a dedicated session.
 

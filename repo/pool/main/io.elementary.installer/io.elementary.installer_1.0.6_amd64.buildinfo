@@ -4,23 +4,23 @@ Binary: io.elementary.installer io.elementary.installer-dbgsym io.elementary.ins
 Architecture: amd64 source
 Version: 1.0.6
 Checksums-Md5:
- 19b15cb519c4b69ad49b0903cab9bdc9 983 io.elementary.installer_1.0.6.dsc
+ ca5c9c92fa0948bcb8e558f5416ea390 984 io.elementary.installer_1.0.6.dsc
  7134e09bb8c857a71afa3ccb072d3e0d 761424 io.elementary.installer-dbgsym_1.0.6_amd64.ddeb
- 152aaea7bddf62c3e0d35f0b9c8f1fa8 4468 io.elementary.installer-session_1.0.6_amd64.deb
- 6f320d69ef28b1430971a17be993c549 313862 io.elementary.installer_1.0.6_amd64.deb
+ d08ef4ad065109c63db6535bfb2137cd 4474 io.elementary.installer-session_1.0.6_amd64.deb
+ 77efa2cf350a8ffacd6a06613f73898d 313794 io.elementary.installer_1.0.6_amd64.deb
 Checksums-Sha1:
- 1244a7aec3e59ee97141805ff3a964f4df834d75 983 io.elementary.installer_1.0.6.dsc
+ bd3f22ad56266fa76cfe05722f5602e90b385fd4 984 io.elementary.installer_1.0.6.dsc
  e8e53ef122b24b2d2bc57c1497f24bb335ceb264 761424 io.elementary.installer-dbgsym_1.0.6_amd64.ddeb
- 3e5b1e5395edb4f8aa9af4396e5cde2576eb5e08 4468 io.elementary.installer-session_1.0.6_amd64.deb
- 12de9a470ff4cbff8178f3c9ccec88135d1e7302 313862 io.elementary.installer_1.0.6_amd64.deb
+ a79e48955851a9b8d99ff2024d04cb90ae388b8b 4474 io.elementary.installer-session_1.0.6_amd64.deb
+ 7f7a3efd51ce7589ede1fe3ae0cf00c5eaba27c1 313794 io.elementary.installer_1.0.6_amd64.deb
 Checksums-Sha256:
- f245c3fe3e291e78d81779fa72f56fdbe2055bac9689da0448410e41c962af00 983 io.elementary.installer_1.0.6.dsc
+ cb4715118c1fa9d722a4d3dceed30dca73cd06828270df8296eaef261c60c004 984 io.elementary.installer_1.0.6.dsc
  28978e6ac97104497dcfab0c10de35962cf4f6c94d2db42becac47feb0f530d6 761424 io.elementary.installer-dbgsym_1.0.6_amd64.ddeb
- c15c90c9ea6ff7b4baa683689aa8a54d30998db9816ad3dac25a83ce0ceb9bdf 4468 io.elementary.installer-session_1.0.6_amd64.deb
- 3a182a69cd677ca233ff1b3fdcf07a6218c48c99b2f69799678210d7530770ae 313862 io.elementary.installer_1.0.6_amd64.deb
+ e71220bea198c8a35387074020a43f23dad2758ee300cc3ccf7d0276f15277bf 4474 io.elementary.installer-session_1.0.6_amd64.deb
+ fb3d9ff0f85a89fe8546dea51eea6c991c1d933fc35692652158d5013a626a0c 313794 io.elementary.installer_1.0.6_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 31 Dec 2022 17:23:24 +0700
+Build-Date: Sat, 31 Dec 2022 19:56:46 +0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:

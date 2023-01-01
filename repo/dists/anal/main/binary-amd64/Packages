@@ -1,14 +1,14 @@
-Package: ji-amusic
-Version: 1.0.1
+Package: ji-music
+Version: 1.0.2
 Architecture: amd64
 Maintainer: jiafeitech
 Installed-Size: 10013
 Depends: libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Filename: ./pool/main/jiamusic/jiamusic_1.0.1_linux_amd64.deb
-Size: 3812102
-MD5sum: 945aeb8075da9fe6f2b305954ec8f7ca
-SHA1: 9ca3023e0987ef6ad3abdab7783363e744c87110
-SHA256: a88bbce6a2fc7ec7fbe3cca70e632d7f4107524b6825aa7d0c79abc21f3f56ea
+Filename: ./pool/main/jiamusic/jiamusic_1.0.2_linux_amd64.deb
+Size: 3811198
+MD5sum: 7fac4081b4d595de3f320a9e96b08a52
+SHA1: 81954dfa496219c41e42a9ef604b1841f1c9000f
+SHA256: 869564a84225b6c5096184d46e8c6b979f41a349c1940d60913a83214395a890
 Priority: optional
 Description: (none)
  (none)

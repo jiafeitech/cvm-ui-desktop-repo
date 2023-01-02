@@ -2,19 +2,19 @@ Format: 1.0
 Source: cvm-ui-desktop-distrologo
 Binary: cvm-ui-desktop-distrologo
 Architecture: all source
-Version: 0.0.1
+Version: 0.02
 Checksums-Md5:
- dbeac29f3a11bdf427009589510c84a6 767 cvm-ui-desktop-distrologo_0.0.1.dsc
- 30a47b05afe9f9b3561b9ceb5c19b99e 868 cvm-ui-desktop-distrologo_0.0.1_all.deb
+ 7189a24671a474f1777c5fda7ffdb14f 763 cvm-ui-desktop-distrologo_0.02.dsc
+ d686e45221ad7f2da716bc2fba12b026 1019612 cvm-ui-desktop-distrologo_0.02_all.deb
 Checksums-Sha1:
- 74a6a4784b03d560a1456c03e1b6799f8e14c756 767 cvm-ui-desktop-distrologo_0.0.1.dsc
- 68bec1ca425b9c104b9c2abd23330a41a914752e 868 cvm-ui-desktop-distrologo_0.0.1_all.deb
+ 626744b83248533ddf0a7339b330aa2d0e06e3ff 763 cvm-ui-desktop-distrologo_0.02.dsc
+ 8ab65a476f17cc4b6ef3b80c596ade1b654e6faf 1019612 cvm-ui-desktop-distrologo_0.02_all.deb
 Checksums-Sha256:
- 95fb01b122cc82c9cc3339387da53a9d01cbb0496a11a1aec957972b1929c2e4 767 cvm-ui-desktop-distrologo_0.0.1.dsc
- c2999647876bc45229052c2033737fc0b23a9d13bb73791e30a016adb817b43d 868 cvm-ui-desktop-distrologo_0.0.1_all.deb
+ fb8ea2b5387d869992c73bbdf44d86a4ef2d9385275127d10ccd4360625b3e99 763 cvm-ui-desktop-distrologo_0.02.dsc
+ 1503aef09e41ca9264fa7dcece8b7a232ba947d473f317358d1ab52c24a2acbf 1019612 cvm-ui-desktop-distrologo_0.02_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 02 Jan 2023 00:34:06 +0700
+Build-Date: Mon, 02 Jan 2023 10:38:28 +0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -195,4 +195,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=12"
  DEB_BUILD_PROFILES="noudeb"
  LANG="C.UTF-8"
- SOURCE_DATE_EPOCH="1672594444"
+ SOURCE_DATE_EPOCH="1672630705"

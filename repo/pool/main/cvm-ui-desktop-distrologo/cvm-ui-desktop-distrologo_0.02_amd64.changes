@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 02 Jan 2023 10:38:28 +0700
+Source: cvm-ui-desktop-distrologo
+Binary: cvm-ui-desktop-distrologo
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.02
+Distribution: jammy
+Urgency: low
+Maintainer: jiafeitech
+Description:
+ cvm-ui-desktop-distrologo - Official Cvm UI Desktop Logo
+Changes:
+ cvm-ui-desktop-distrologo (0.02) jammy; urgency=low
+ .
+   * some updates
+Checksums-Sha1:
+ 626744b83248533ddf0a7339b330aa2d0e06e3ff 763 cvm-ui-desktop-distrologo_0.02.dsc
+ db0106c0067308469b06cdcb535fbf10be795373 2098554 cvm-ui-desktop-distrologo_0.02.tar.gz
+ 8ab65a476f17cc4b6ef3b80c596ade1b654e6faf 1019612 cvm-ui-desktop-distrologo_0.02_all.deb
+ cfab51a5687e1be3a42a8799daea6f40395e24e5 6564 cvm-ui-desktop-distrologo_0.02_amd64.buildinfo
+Checksums-Sha256:
+ fb8ea2b5387d869992c73bbdf44d86a4ef2d9385275127d10ccd4360625b3e99 763 cvm-ui-desktop-distrologo_0.02.dsc
+ 0b92e866c1a67eee91dc188396f06ff26672a723cc0b93624571f67d9504bb8f 2098554 cvm-ui-desktop-distrologo_0.02.tar.gz
+ 1503aef09e41ca9264fa7dcece8b7a232ba947d473f317358d1ab52c24a2acbf 1019612 cvm-ui-desktop-distrologo_0.02_all.deb
+ 9c7e908db3640d449bd3fb5b0ef37c481866e20a42b8752e7151474f3c4228a5 6564 cvm-ui-desktop-distrologo_0.02_amd64.buildinfo
+Files:
+ 7189a24671a474f1777c5fda7ffdb14f 763 utils optional cvm-ui-desktop-distrologo_0.02.dsc
+ 6b8c5c804a8eb0f8cb3eee06d237a86f 2098554 utils optional cvm-ui-desktop-distrologo_0.02.tar.gz
+ d686e45221ad7f2da716bc2fba12b026 1019612 utils optional cvm-ui-desktop-distrologo_0.02_all.deb
+ 4ea8c65f9d33e67924c2a79b1d1dd3d5 6564 utils optional cvm-ui-desktop-distrologo_0.02_amd64.buildinfo

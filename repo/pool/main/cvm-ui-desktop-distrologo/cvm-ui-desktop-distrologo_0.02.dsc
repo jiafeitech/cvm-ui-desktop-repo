@@ -2,7 +2,7 @@ Format: 1.0
 Source: cvm-ui-desktop-distrologo
 Binary: cvm-ui-desktop-distrologo
 Architecture: all
-Version: 0.0.1
+Version: 0.02
 Maintainer: jiafeitech
 Homepage: https://github.com/jiafeitech/cvm-ui-desktop-distrologo
 Vcs-Browser: hhttps://github.com/jiafeitech/cvm-ui-desktop-distrologo
@@ -11,8 +11,8 @@ Build-Depends: debhelper (>= 11)
 Package-List:
  cvm-ui-desktop-distrologo deb utils optional arch=all
 Checksums-Sha1:
- 368d6e78132b2a9996f9d20874177eb5b1057036 2097100 cvm-ui-desktop-distrologo_0.0.1.tar.gz
+ db0106c0067308469b06cdcb535fbf10be795373 2098554 cvm-ui-desktop-distrologo_0.02.tar.gz
 Checksums-Sha256:
- 762b146cac25aa5e2b52081f64899a83ce9106d8c7b17966b26576d1dbf248a4 2097100 cvm-ui-desktop-distrologo_0.0.1.tar.gz
+ 0b92e866c1a67eee91dc188396f06ff26672a723cc0b93624571f67d9504bb8f 2098554 cvm-ui-desktop-distrologo_0.02.tar.gz
 Files:
- 375a8ee96fec352d50447741e1457989 2097100 cvm-ui-desktop-distrologo_0.0.1.tar.gz
+ 6b8c5c804a8eb0f8cb3eee06d237a86f 2098554 cvm-ui-desktop-distrologo_0.02.tar.gz

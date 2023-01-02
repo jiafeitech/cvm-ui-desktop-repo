@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 02 Jan 2023 17:27:28 +0700
+Source: plymouth-theme-cvm-ui-desktop
+Binary: plymouth-theme-cvm-ui-desktop
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 5.2
+Distribution: jammy
+Urgency: low
+Maintainer: jiafeitech
+Description:
+ plymouth-theme-cvm-ui-desktop - graphical boot animation and logger
+Changes:
+ plymouth-theme-cvm-ui-desktop (5.2) jammy; urgency=low
+Checksums-Sha1:
+ df20e2cce8963991658d16dd2549f9cbaf0adcd7 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ f4932dc22861d464db16b8198390442f328ecd28 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ 9cd517b898c7e58a33c09f51447370ea4069981c 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ b2bd512832597a4c2ab50b9f8e729dd5766a8dcc 6586 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
+Checksums-Sha256:
+ 040ac7ab2e89c8ed286c7e1d88867a586a559f87d056d5c7786be37d416d6832 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 15cd9dc4e53f96b8e19459cda5947d4f5fdaac6adcac8b4255e33fde9284b9e7 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ d42f1aea0aecc093686d5958773373c301080a70551d4694ad3205963da2dece 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ de4edbb090aab88b048b68118a281a339a626bc23dff0a6ffea1412672fee535 6586 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
+Files:
+ 0a6765e74b050e4ec72a5e62c820b19d 611 x11 optional plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 3c17545699f80dccf6ee378eb314bdbc 128224 x11 optional plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ a75ba207b1f9b258d340ac376d46ff11 130146 x11 optional plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ db8c6058993642f0709d11eeac1f6d34 6586 x11 optional plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo

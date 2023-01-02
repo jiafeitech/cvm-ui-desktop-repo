@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Mon, 02 Jan 2023 12:47:14 +0700
+Source: cvm-ui-desktop-meta
+Binary: cvm-ui-desktop-desktop cvm-ui-desktop-minimal cvm-ui-desktop-standard
+Built-For-Profiles: noudeb
+Architecture: source amd64
+Version: 1.481
+Distribution: jammy
+Urgency: medium
+Maintainer: jiafeitech
+Description:
+ cvm-ui-desktop-desktop - The UbuCvm UI Desktopntu desktop system
+ cvm-ui-desktop-minimal - Minimal core of Cvm UI Desktop
+ cvm-ui-desktop-standard - The Cvm UI Desktop standard system
+Changes:
+ cvm-ui-desktop-meta (1.481) jammy; urgency=medium
+Checksums-Sha1:
+ c2384315f19dbd9f57ded0a2be589e4cfeb56138 761 cvm-ui-desktop-meta_1.481.dsc
+ 93a91ef14e2461d73602b0f2e3edc7b56a0075dd 3904 cvm-ui-desktop-meta_1.481.tar.xz
+ 3d79b469c74ec96db4476f4d313b67244d64d3fb 2938 cvm-ui-desktop-desktop_1.481_amd64.deb
+ 8c8c292455d58a4c8fdba945512b310d6e5cae2b 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 89ad79aa5dc82f7cf5618ac06cff80f49bb2b143 2094 cvm-ui-desktop-minimal_1.481_amd64.deb
+ 262360c76e869c12f54a754359b5d4f594be1e5a 2104 cvm-ui-desktop-standard_1.481_amd64.deb
+Checksums-Sha256:
+ f6efd3a865e5d1fa36d37bc6d7e6a20ac8c52c4734b59a7298c7c762b393f169 761 cvm-ui-desktop-meta_1.481.dsc
+ af96f463ad7fb3fdfe0ca84cac2399be99a8be8ad7ad7cb0d23b325f79a6eed1 3904 cvm-ui-desktop-meta_1.481.tar.xz
+ 9227b93208478d107f5cf826c448790adbb0ced7c3e7a4acc54e9d33d0eb5b97 2938 cvm-ui-desktop-desktop_1.481_amd64.deb
+ 7a1953eeb4640f4d5b10e73bddae880ee1145ec35f17d8e2f5b7928f245f6fe9 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 91e0de2d4e3d9d3cb72124f8898634aa93e5ff1e8b6262a8f317e42cab802fcb 2094 cvm-ui-desktop-minimal_1.481_amd64.deb
+ 7d4f6661934d798311d859684bf0b06b580f97235168e99cfa82e842def53849 2104 cvm-ui-desktop-standard_1.481_amd64.deb
+Files:
+ 8d2fc3fc99196e47980baf33228ef7ed 761 metapackages optional cvm-ui-desktop-meta_1.481.dsc
+ 01ecdd50eff60624f25589432847757f 3904 metapackages optional cvm-ui-desktop-meta_1.481.tar.xz
+ f85f3f95acb6dc9fb02e6760c3d097bd 2938 metapackages optional cvm-ui-desktop-desktop_1.481_amd64.deb
+ 9c8c5ce652fb96a9c7e8ff9ee71cb0bc 7834 metapackages optional cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 4d31991ea702387c38f1e0a5feb16d80 2094 metapackages optional cvm-ui-desktop-minimal_1.481_amd64.deb
+ 4d05ca1f04b877fb0ef2b7dc001c5a24 2104 metapackages optional cvm-ui-desktop-standard_1.481_amd64.deb

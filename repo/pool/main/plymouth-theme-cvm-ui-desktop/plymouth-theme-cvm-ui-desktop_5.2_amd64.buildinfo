@@ -1,20 +1,29 @@
 Format: 1.0
 Source: plymouth-theme-cvm-ui-desktop
-Binary: plymouth-theme-cvm-ui-desktop
+Binary: plymouth-theme-cvm-ui-desktop plymouth-theme-cvm-ui-desktop-bgrt plymouth-theme-cvm-ui-desktop-logo plymouth-theme-cvm-ui-desktop-text
 Architecture: all source
 Version: 5.2
 Checksums-Md5:
- 0a6765e74b050e4ec72a5e62c820b19d 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
- a75ba207b1f9b258d340ac376d46ff11 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ 0a5cb8de5561428611f9060ab953060b 1096 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 69fd0851392e9aac4b1b59209170c4fb 133434 plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ ce7c9b6fa175f06861656027516701ae 23648 plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 0d684e24397e5a3a74b8e34d2d6b201f 2444 plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 1d3d19ab9e8d9690a432b3e93a51cb17 1724 plymouth-theme-cvm-ui-desktop_5.2_all.deb
 Checksums-Sha1:
- df20e2cce8963991658d16dd2549f9cbaf0adcd7 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
- 9cd517b898c7e58a33c09f51447370ea4069981c 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ 96ee1915822de81eb635423503fa0d96b3895538 1096 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 822aaa4e34fbb2f4f5b476b04eac3bb928aaeaa1 133434 plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ 20d60dba0caa7409539b9eea6a57d6afae93b3fd 23648 plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 11d06b0e287c83165ad99725b9959beaa0df895a 2444 plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 4a24a4da6f9beb50d86b1497567fbb503b6dec9c 1724 plymouth-theme-cvm-ui-desktop_5.2_all.deb
 Checksums-Sha256:
- 040ac7ab2e89c8ed286c7e1d88867a586a559f87d056d5c7786be37d416d6832 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
- d42f1aea0aecc093686d5958773373c301080a70551d4694ad3205963da2dece 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ a8a68c8bc050f9330d13096cfe9a7258e5cd242431fc6da60b29627cc0bdbeaa 1096 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 13b716e9313bb921f15e199611799865ba0ef12e656ec04764b1fc4222e800d6 133434 plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ 180172032e51ec75d2a12d01bb36fa327a7cfa2015fcf900083c86accfa5e1e1 23648 plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 6d3d7e6ce0e412f45122fb94799152c8c1c1c645ea35ef281af13275b481bbaa 2444 plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 9cb805dd646f896915d90e7db144659fb47b4d7d6dc4ea11ad07ba990d09e51a 1724 plymouth-theme-cvm-ui-desktop_5.2_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 02 Jan 2023 17:27:28 +0700
+Build-Date: Mon, 02 Jan 2023 18:40:51 +0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -101,6 +110,7 @@ Installed-Build-Depends:
  libdw1 (= 0.186-1build1),
  libedit2 (= 3.1-20210910-1build1),
  libelf1 (= 0.186-1build1),
+ libexpat1 (= 2.4.7-1ubuntu0.2),
  libffi8 (= 3.4.2-4),
  libfile-stripnondeterminism-perl (= 1.13.0-1),
  libgc1 (= 1:8.0.6-1.1build1),
@@ -129,7 +139,9 @@ Installed-Build-Depends:
  libmd0 (= 1.0.4-1build1),
  libmount1 (= 2.37.2-4ubuntu3),
  libmpc3 (= 1.2.1-2build1),
+ libmpdec3 (= 2.5.1-2build2),
  libmpfr6 (= 4.1.0-3build3),
+ libncursesw6 (= 6.3-2),
  libnsl-dev (= 1.3.0-2build2),
  libnsl2 (= 1.3.0-2build2),
  libobjc-11-dev (= 11.3.0-1ubuntu1~22.04),
@@ -142,12 +154,16 @@ Installed-Build-Depends:
  libpcre3 (= 2:8.39-13ubuntu0.22.04.1),
  libperl5.34 (= 5.34.0-3ubuntu1.1),
  libpipeline1 (= 1.5.5-1),
+ libpython3-stdlib (= 3.10.6-1~22.04),
+ libpython3.10-minimal (= 3.10.6-1~22.04.2),
+ libpython3.10-stdlib (= 3.10.6-1~22.04.2),
  libquadmath0 (= 12.1.0-2ubuntu1~22.04),
  libreadline8 (= 8.1.2-1),
  libseccomp2 (= 2.5.3-2ubuntu2),
  libselinux1 (= 3.3-1build2),
  libsigsegv2 (= 2.13-1ubuntu3),
  libsmartcols1 (= 2.37.2-4ubuntu3),
+ libsqlite3-0 (= 3.37.2-2ubuntu0.1),
  libssl3 (= 3.0.2-0ubuntu1.7),
  libstdc++-11-dev (= 11.3.0-1ubuntu1~22.04),
  libstdc++6 (= 12.1.0-2ubuntu1~22.04),
@@ -175,13 +191,23 @@ Installed-Build-Depends:
  make (= 4.3-4.1build1),
  man-db (= 2.10.2-1),
  mawk (= 1.3.4.20200120-3),
+ media-types (= 7.0.0),
+ meson (= 0.61.2-1),
  ncurses-base (= 6.3-2),
  ncurses-bin (= 6.3-2),
+ ninja-build (= 1.10.1-1),
  patch (= 2.7.6-7build2),
  perl (= 5.34.0-3ubuntu1.1),
  perl-base (= 5.34.0-3ubuntu1.1),
  perl-modules-5.34 (= 5.34.0-3ubuntu1.1),
  po-debconf (= 1.0.21+nmu1),
+ python3 (= 3.10.6-1~22.04),
+ python3-distutils (= 3.10.6-1~22.04),
+ python3-lib2to3 (= 3.10.6-1~22.04),
+ python3-minimal (= 3.10.6-1~22.04),
+ python3-pkg-resources (= 59.6.0-1.2),
+ python3.10 (= 3.10.6-1~22.04.2),
+ python3.10-minimal (= 3.10.6-1~22.04.2),
  readline-common (= 8.1.2-1),
  rpcsvc-proto (= 1.4.2-0ubuntu6),
  sed (= 4.8-1ubuntu2),
@@ -195,4 +221,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=12"
  DEB_BUILD_PROFILES="noudeb"
  LANG="C.UTF-8"
- SOURCE_DATE_EPOCH="1672655245"
+ SOURCE_DATE_EPOCH="1672659642"

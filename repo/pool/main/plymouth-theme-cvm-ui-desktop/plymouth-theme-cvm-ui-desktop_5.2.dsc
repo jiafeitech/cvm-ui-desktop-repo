@@ -1,16 +1,22 @@
-Format: 3.0 (native)
+Format: 1.0
 Source: plymouth-theme-cvm-ui-desktop
-Binary: plymouth-theme-cvm-ui-desktop
+Binary: plymouth-theme-cvm-ui-desktop, plymouth-theme-cvm-ui-desktop-bgrt, plymouth-theme-cvm-ui-desktop-logo, plymouth-theme-cvm-ui-desktop-text
 Architecture: all
 Version: 5.2
 Maintainer: jiafeitech
-Standards-Version: 4.5.0
-Build-Depends: debhelper (>= 10.5.1)
+Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
+Vcs-Browser: https://github.com/jiafeitech/cvm-plymouth-theme
+Vcs-Git: https://github.com/jiafeitech/cvm-plymouth-theme.git
+Build-Depends: debhelper (>= 11)
+Build-Depends-Indep: meson (>= 0.61)
 Package-List:
- plymouth-theme-cvm-ui-desktop deb x11 optional arch=all
+ plymouth-theme-cvm-ui-desktop deb utils optional arch=all
+ plymouth-theme-cvm-ui-desktop-bgrt deb utils optional arch=all
+ plymouth-theme-cvm-ui-desktop-logo deb utils optional arch=all
+ plymouth-theme-cvm-ui-desktop-text deb utils optional arch=all
 Checksums-Sha1:
- f4932dc22861d464db16b8198390442f328ecd28 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ 1d84f582bebfb0fa3fc88dbec4a44f5ae89c5efa 426065 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
 Checksums-Sha256:
- 15cd9dc4e53f96b8e19459cda5947d4f5fdaac6adcac8b4255e33fde9284b9e7 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ 7f4051702702ee168ae4b2a5dee755abeda229131141e26db8c5a71f50e33787 426065 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
 Files:
- 3c17545699f80dccf6ee378eb314bdbc 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
+ 11a8028eaed291dab183ac8672a507e4 426065 plymouth-theme-cvm-ui-desktop_5.2.tar.gz

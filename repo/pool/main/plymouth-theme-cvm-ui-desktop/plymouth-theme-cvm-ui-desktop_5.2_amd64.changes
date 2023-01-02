@@ -1,7 +1,7 @@
 Format: 1.8
-Date: Mon, 02 Jan 2023 17:27:28 +0700
+Date: Mon, 02 Jan 2023 18:40:51 +0700
 Source: plymouth-theme-cvm-ui-desktop
-Binary: plymouth-theme-cvm-ui-desktop
+Binary: plymouth-theme-cvm-ui-desktop plymouth-theme-cvm-ui-desktop-bgrt plymouth-theme-cvm-ui-desktop-logo plymouth-theme-cvm-ui-desktop-text
 Built-For-Profiles: noudeb
 Architecture: source all
 Version: 5.2
@@ -9,21 +9,35 @@ Distribution: jammy
 Urgency: low
 Maintainer: jiafeitech
 Description:
- plymouth-theme-cvm-ui-desktop - graphical boot animation and logger
+ plymouth-theme-cvm-ui-desktop - Official Cvm UI Desktop Plymouth (metapackage)
+ plymouth-theme-cvm-ui-desktop-bgrt - Official Cvm UI Desktop Plymouth (bgrt)
+ plymouth-theme-cvm-ui-desktop-logo - Official Cvm UI Desktop Plymouth (logo)
+ plymouth-theme-cvm-ui-desktop-text - Official Cvm UI Desktop Plymouth (text)
 Changes:
  plymouth-theme-cvm-ui-desktop (5.2) jammy; urgency=low
+ .
+   * First release
 Checksums-Sha1:
- df20e2cce8963991658d16dd2549f9cbaf0adcd7 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
- f4932dc22861d464db16b8198390442f328ecd28 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
- 9cd517b898c7e58a33c09f51447370ea4069981c 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
- b2bd512832597a4c2ab50b9f8e729dd5766a8dcc 6586 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
+ 96ee1915822de81eb635423503fa0d96b3895538 1096 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 1d84f582bebfb0fa3fc88dbec4a44f5ae89c5efa 426065 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ 822aaa4e34fbb2f4f5b476b04eac3bb928aaeaa1 133434 plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ 20d60dba0caa7409539b9eea6a57d6afae93b3fd 23648 plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 11d06b0e287c83165ad99725b9959beaa0df895a 2444 plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 4a24a4da6f9beb50d86b1497567fbb503b6dec9c 1724 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ bd23490261af330ca7027516db64680cad529f5b 8173 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
 Checksums-Sha256:
- 040ac7ab2e89c8ed286c7e1d88867a586a559f87d056d5c7786be37d416d6832 611 plymouth-theme-cvm-ui-desktop_5.2.dsc
- 15cd9dc4e53f96b8e19459cda5947d4f5fdaac6adcac8b4255e33fde9284b9e7 128224 plymouth-theme-cvm-ui-desktop_5.2.tar.xz
- d42f1aea0aecc093686d5958773373c301080a70551d4694ad3205963da2dece 130146 plymouth-theme-cvm-ui-desktop_5.2_all.deb
- de4edbb090aab88b048b68118a281a339a626bc23dff0a6ffea1412672fee535 6586 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
+ a8a68c8bc050f9330d13096cfe9a7258e5cd242431fc6da60b29627cc0bdbeaa 1096 plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 7f4051702702ee168ae4b2a5dee755abeda229131141e26db8c5a71f50e33787 426065 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ 13b716e9313bb921f15e199611799865ba0ef12e656ec04764b1fc4222e800d6 133434 plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ 180172032e51ec75d2a12d01bb36fa327a7cfa2015fcf900083c86accfa5e1e1 23648 plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 6d3d7e6ce0e412f45122fb94799152c8c1c1c645ea35ef281af13275b481bbaa 2444 plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 9cb805dd646f896915d90e7db144659fb47b4d7d6dc4ea11ad07ba990d09e51a 1724 plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ aeb37ac276c47478f136fd67e9256362e8567d89ebbc06a9a89037e200804b03 8173 plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
 Files:
- 0a6765e74b050e4ec72a5e62c820b19d 611 x11 optional plymouth-theme-cvm-ui-desktop_5.2.dsc
- 3c17545699f80dccf6ee378eb314bdbc 128224 x11 optional plymouth-theme-cvm-ui-desktop_5.2.tar.xz
- a75ba207b1f9b258d340ac376d46ff11 130146 x11 optional plymouth-theme-cvm-ui-desktop_5.2_all.deb
- db8c6058993642f0709d11eeac1f6d34 6586 x11 optional plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo
+ 0a5cb8de5561428611f9060ab953060b 1096 utils optional plymouth-theme-cvm-ui-desktop_5.2.dsc
+ 11a8028eaed291dab183ac8672a507e4 426065 utils optional plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ 69fd0851392e9aac4b1b59209170c4fb 133434 utils optional plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+ ce7c9b6fa175f06861656027516701ae 23648 utils optional plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+ 0d684e24397e5a3a74b8e34d2d6b201f 2444 utils optional plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+ 1d3d19ab9e8d9690a432b3e93a51cb17 1724 utils optional plymouth-theme-cvm-ui-desktop_5.2_all.deb
+ c1221a6a8397de453e4e7def1646a954 8173 utils optional plymouth-theme-cvm-ui-desktop_5.2_amd64.buildinfo

@@ -5,13 +5,13 @@ Architecture: amd64
 Maintainer: jiafeitech
 Installed-Size: 9
 Depends: alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, cvm-ui-desktop-distrologo, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, foomatic-db-compressed-ppds, gdm3, ghostscript-x, gnome-control-center, gnome-menus, gnome-session-canberra, gnome-settings-daemon, gnome-shell, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-ubuntu-dock, gstreamer1.0-alsa, gstreamer1.0-packagekit, gstreamer1.0-plugins-base-apps, gstreamer1.0-pulseaudio, inputattach, language-selector-common, language-selector-gnome, libatk-adaptor, libnotify-bin, libsasl2-modules, libu2f-udev, nautilus, openprinting-ppds, printer-driver-pnm2ppa, pulseaudio, rfkill, software-properties-gtk, spice-vdagent, ubuntu-drivers-common, ubuntu-release-upgrader-gtk, ubuntu-session, ubuntu-settings, unzip, update-manager, update-notifier, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip
-Recommends: acpi-support, apport-gtk, appstream, apt-config-icons-hidpi, avahi-autoipd, avahi-daemon, bluez, bluez-cups, brltty, cups, cups-bsd, cups-client, cups-filters, dirmngr, eog, evince, file-roller, fonts-indic, fonts-kacst-one, fonts-khmeros-core, fonts-lao, fonts-liberation, fonts-liberation2, fonts-lklug-sinhala, fonts-noto-cjk, fonts-noto-color-emoji, fonts-opensymbol, fonts-sil-abyssinica, fonts-sil-padauk, fonts-thai-tlwg, fonts-tibetan-machine, fonts-ubuntu, fwupd, fwupd-signed, gamemode, gedit, gir1.2-gmenu-3.0, gnome-accessibility-themes, gnome-bluetooth, gnome-calculator, gnome-characters, gnome-disk-utility, gnome-font-viewer, gnome-initial-setup, gnome-keyring, gnome-logs, gnome-power-manager, gnome-remote-desktop, gnome-system-monitor, gnome-terminal, gpg-agent, gsettings-ubuntu-schemas, gvfs-fuse, hplip, ibus, ibus-gtk, ibus-gtk3, ibus-table, im-config, kerneloops, laptop-detect, libglib2.0-bin, libnss-mdns, libpam-fprintd, libpam-gnome-keyring, libpam-sss, libproxy1-plugin-gsettings, libproxy1-plugin-networkmanager, libwmf0.2-7-gtk, memtest86+, mousetweaks, nautilus-sendto, nautilus-share, network-manager, network-manager-config-connectivity-ubuntu, network-manager-openvpn-gnome, network-manager-pptp-gnome, orca, packagekit, pcmciautils, plymouth-theme-cvm-ui-desktop, policykit-desktop-privileges, printer-driver-brlaser, printer-driver-c2esp, printer-driver-foo2zjs, printer-driver-m2300w, printer-driver-min12xxw, printer-driver-ptouch, printer-driver-pxljr, printer-driver-sag-gdi, printer-driver-splix, pulseaudio-module-bluetooth, seahorse, speech-dispatcher, system-config-printer, systemd-oomd, ubuntu-docs, ubuntu-report, ubuntu-wallpapers, whoopsie, xcursor-themes, xdg-desktop-portal-gnome, xdg-desktop-portal-gtk, xdg-utils, yaru-theme-gnome-shell, yaru-theme-gtk, yaru-theme-icon, yaru-theme-sound
+Recommends: acpi-support, apport-gtk, appstream, apt-config-icons-hidpi, avahi-autoipd, avahi-daemon, bluez, bluez-cups, brltty, cups, cups-bsd, cups-client, cups-filters, dirmngr, eog, evince, file-roller, fonts-indic, fonts-kacst-one, fonts-khmeros-core, fonts-lao, fonts-liberation, fonts-liberation2, fonts-lklug-sinhala, fonts-noto-cjk, fonts-noto-color-emoji, fonts-opensymbol, fonts-sil-abyssinica, fonts-sil-padauk, fonts-thai-tlwg, fonts-tibetan-machine, fonts-ubuntu, fwupd, fwupd-signed, gamemode, gedit, gir1.2-gmenu-3.0, gnome-accessibility-themes, gnome-bluetooth, gnome-calculator, gnome-characters, gnome-disk-utility, gnome-font-viewer, gnome-initial-setup, gnome-keyring, gnome-logs, gnome-power-manager, gnome-remote-desktop, gnome-system-monitor, gnome-terminal, gpg-agent, gsettings-ubuntu-schemas, gvfs-fuse, hplip, ibus, ibus-gtk, ibus-gtk3, ibus-table, im-config, kerneloops, laptop-detect, libglib2.0-bin, libnss-mdns, libpam-fprintd, libpam-gnome-keyring, libpam-sss, libproxy1-plugin-gsettings, libproxy1-plugin-networkmanager, libwmf0.2-7-gtk, memtest86+, mousetweaks, nautilus-sendto, nautilus-share, network-manager, network-manager-config-connectivity-ubuntu, network-manager-openvpn-gnome, network-manager-pptp-gnome, orca, packagekit, pcmciautils, plymouth-theme-cvm-ui-desktop, plymouth-theme-cvm-ui-desktop-bgrt, plymouth-theme-cvm-ui-desktop-logo, policykit-desktop-privileges, printer-driver-brlaser, printer-driver-c2esp, printer-driver-foo2zjs, printer-driver-m2300w, printer-driver-min12xxw, printer-driver-ptouch, printer-driver-pxljr, printer-driver-sag-gdi, printer-driver-splix, pulseaudio-module-bluetooth, seahorse, speech-dispatcher, system-config-printer, systemd-oomd, ubuntu-docs, ubuntu-report, ubuntu-wallpapers, whoopsie, xcursor-themes, xdg-desktop-portal-gnome, xdg-desktop-portal-gtk, xdg-utils, yaru-theme-gnome-shell, yaru-theme-gtk, yaru-theme-icon, yaru-theme-sound
 Provides: packagekit-installer
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-desktop_1.481_amd64.deb
-Size: 2954
-MD5sum: 34887f213e1253a388e10555110f8a56
-SHA1: dc5c3ed5a08fbbe1cce8f4b31c9e669e614c9634
-SHA256: 5ffb3a38efb7690994b8042989a1e8ff84df15e152c095f1ae24e95ed65eb226
+Size: 2960
+MD5sum: 29817bda50871e3ffbb8acb868e625c0
+SHA1: 11ef9e121fc5fca9837d005dd2f523403cf461c9
+SHA256: 007d10807d45ee67e92f38fe72aa5698d0109979c16f404e1dd10f29dc134e8c
 Section: metapackages
 Priority: optional
 Description: The UbuCvm UI Desktopntu desktop system
@@ -44,10 +44,10 @@ Installed-Size: 9
 Depends: adduser, apt, apt-utils, console-setup, debconf, debconf-i18n, e2fsprogs, eject, init, iproute2, iputils-ping, isc-dhcp-client, kbd, kmod, less, locales, lsb-release, mawk, mount, netbase, netcat-openbsd, netplan.io, passwd, procps, python3, sensible-utils, sudo, tzdata, ubuntu-advantage-tools, ubuntu-keyring, udev, vim-tiny, whiptail
 Recommends: rsyslog, usrmerge
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-minimal_1.481_amd64.deb
-Size: 2096
-MD5sum: 1f7e15acf251d36ffbac32be313ae2cf
-SHA1: 74af330e30dbe80b0ed2ecb0d4d8a285627f201b
-SHA256: 934f11cc2593cc768e5f5e09d969a4301c60805a796d216515b4642b3c919f80
+Size: 2098
+MD5sum: c083acb65e96db0a5136944f5925e054
+SHA1: 877ef5e7353094921dc6602e31727bccffad6358
+SHA256: d20f35beaca4e3a8bd25dadd952b0f8c7aa74c55b496af939767f1c7a1a6fc8c
 Section: metapackages
 Priority: optional
 Description: Minimal core of Cvm UI Desktop
@@ -70,12 +70,12 @@ Architecture: amd64
 Maintainer: jiafeitech
 Installed-Size: 9
 Depends: bind9-dnsutils, busybox-static, cpio, cron, dmidecode, dosfstools, ed, file, ftp, hdparm, info, libpam-systemd, logrotate, lshw, lsof, man-db, media-types, nftables, parted, pciutils, psmisc, rsync, strace, time, usbutils, wget, xz-utils
-Recommends: apparmor, bash-completion, command-not-found, friendly-recovery, iptables, iputils-tracepath, irqbalance, manpages, mtr-tiny, nano, ntfs-3g, openssh-client, plymouth, plymouth-theme-ubuntu-text, tcpdump, telnet, ufw, update-manager-core, uuid-runtime
+Recommends: apparmor, bash-completion, command-not-found, friendly-recovery, iptables, iputils-tracepath, irqbalance, manpages, mtr-tiny, nano, ntfs-3g, openssh-client, plymouth, plymouth-theme-cvm-ui-desktop-text, tcpdump, telnet, ufw, update-manager-core, uuid-runtime
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-standard_1.481_amd64.deb
-Size: 2106
-MD5sum: 7a3fe0215ee5f94ada0147237ac909ba
-SHA1: c2ffc7203d68bccb3f90a3d2c8337c4a58aa9086
-SHA256: f17e58861b7e7d19f86d13732622cf2d995ff336ec15f857eeea5373e5eb85f2
+Size: 2104
+MD5sum: ab43ec1f397b0982911034adf1ec3d24
+SHA1: 67416a2509e74168e7a96bc51aa57b90f6d9259d
+SHA256: 0889f0aa24001b18c29dbecbe0cba9c51e79c0b611de9c01ae367d2caf39057f
 Section: metapackages
 Priority: optional
 Description: The Cvm UI Desktop standard system
@@ -105,21 +105,75 @@ Package: plymouth-theme-cvm-ui-desktop
 Version: 5.2
 Architecture: all
 Maintainer: jiafeitech
-Installed-Size: 293
-Depends: plymouth, plymouth-label, plymouth-theme-spinner
-Replaces: plymouth (<< 0.8.1-1~)
-Provides: plymouth-theme
+Installed-Size: 9
+Depends: plymouth-theme-cvm-ui-desktop-bgrt, plymouth-theme-cvm-ui-desktop-text
 Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop_5.2_all.deb
-Size: 130146
-MD5sum: a75ba207b1f9b258d340ac376d46ff11
-SHA1: 9cd517b898c7e58a33c09f51447370ea4069981c
-SHA256: d42f1aea0aecc093686d5958773373c301080a70551d4694ad3205963da2dece
-Section: x11
+Size: 1724
+MD5sum: 1d3d19ab9e8d9690a432b3e93a51cb17
+SHA1: 4a24a4da6f9beb50d86b1497567fbb503b6dec9c
+SHA256: 9cb805dd646f896915d90e7db144659fb47b4d7d6dc4ea11ad07ba990d09e51a
+Section: utils
 Priority: optional
-Description: graphical boot animation and logger
-  Plymouth is an application that runs very early in the boot process
-  (even before the root filesystem is mounted!) that provides a graphical
-  boot animation while the boot process happens in the background.
-  .
-  This package contains the Cvm UI Desktop splash theme for Plymouth.
+Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
+Description: Official Cvm UI Desktop Plymouth (metapackage)
+ This package contains the official Cvm UI Desktop Plymouth theme.
+ .
+ This package is a metapackage, it depends on the bgrt, logo and text packages.
+
+Package: plymouth-theme-cvm-ui-desktop-bgrt
+Source: plymouth-theme-cvm-ui-desktop
+Version: 5.2
+Architecture: all
+Maintainer: jiafeitech
+Installed-Size: 297
+Depends: plymouth, plymouth-label, dconf-gsettings-backend | gsettings-backend
+Breaks: plymouth (<< 0.9.2-3ubuntu1~)
+Provides: plymouth-theme
+Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
+Size: 133434
+MD5sum: 69fd0851392e9aac4b1b59209170c4fb
+SHA1: 822aaa4e34fbb2f4f5b476b04eac3bb928aaeaa1
+SHA256: 13b716e9313bb921f15e199611799865ba0ef12e656ec04764b1fc4222e800d6
+Section: utils
+Priority: optional
+Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
+Description: Official Cvm UI Desktop Plymouth (bgrt)
+
+Package: plymouth-theme-cvm-ui-desktop-logo
+Source: plymouth-theme-cvm-ui-desktop
+Version: 5.2
+Architecture: all
+Maintainer: jiafeitech
+Installed-Size: 113
+Depends: plymouth, plymouth-label, gettext
+Breaks: plymouth (<< 0.9.2-3ubuntu1~)
+Provides: plymouth-theme
+Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
+Size: 23648
+MD5sum: ce7c9b6fa175f06861656027516701ae
+SHA1: 20d60dba0caa7409539b9eea6a57d6afae93b3fd
+SHA256: 180172032e51ec75d2a12d01bb36fa327a7cfa2015fcf900083c86accfa5e1e1
+Section: utils
+Priority: optional
+Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
+Description: Official Cvm UI Desktop Plymouth (logo)
+
+Package: plymouth-theme-cvm-ui-desktop-text
+Source: plymouth-theme-cvm-ui-desktop
+Version: 5.2
+Architecture: all
+Maintainer: jiafeitech
+Installed-Size: 16
+Depends: plymouth, plymouth-theme-ubuntu-text
+Breaks: plymouth (<< 0.9.2-3ubuntu1~)
+Provides: plymouth-theme
+Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
+Size: 2444
+MD5sum: 0d684e24397e5a3a74b8e34d2d6b201f
+SHA1: 11d06b0e287c83165ad99725b9959beaa0df895a
+SHA256: 6d3d7e6ce0e412f45122fb94799152c8c1c1c645ea35ef281af13275b481bbaa
+Section: utils
+Priority: optional
+Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
+Description: Official Cvm UI Desktop Plymouth (text)
 

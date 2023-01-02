@@ -11,8 +11,8 @@ Package-List:
  cvm-ui-desktop-minimal deb metapackages optional arch=any
  cvm-ui-desktop-standard deb metapackages optional arch=any
 Checksums-Sha1:
- 93a91ef14e2461d73602b0f2e3edc7b56a0075dd 3904 cvm-ui-desktop-meta_1.481.tar.xz
+ 3332ab561da077f6b45aa2d35cc6a9dd7c8f0de9 3920 cvm-ui-desktop-meta_1.481.tar.xz
 Checksums-Sha256:
- af96f463ad7fb3fdfe0ca84cac2399be99a8be8ad7ad7cb0d23b325f79a6eed1 3904 cvm-ui-desktop-meta_1.481.tar.xz
+ af2a18be1d5888af6dc1eed6e448587fc1c54663fc3a6b847a0c6b4dcc6f3ced 3920 cvm-ui-desktop-meta_1.481.tar.xz
 Files:
- 01ecdd50eff60624f25589432847757f 3904 cvm-ui-desktop-meta_1.481.tar.xz
+ 946ea2a0c0e308b548392d8f9653c1cf 3920 cvm-ui-desktop-meta_1.481.tar.xz

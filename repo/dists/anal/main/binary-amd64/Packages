@@ -4,14 +4,14 @@ Version: 1.481
 Architecture: amd64
 Maintainer: jiafeitech
 Installed-Size: 9
-Depends: alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, foomatic-db-compressed-ppds, gdm3, ghostscript-x, gnome-control-center, gnome-menus, gnome-session-canberra, gnome-settings-daemon, gnome-shell, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-ubuntu-dock, gstreamer1.0-alsa, gstreamer1.0-packagekit, gstreamer1.0-plugins-base-apps, gstreamer1.0-pulseaudio, inputattach, language-selector-common, language-selector-gnome, libatk-adaptor, libnotify-bin, libsasl2-modules, libu2f-udev, nautilus, openprinting-ppds, printer-driver-pnm2ppa, pulseaudio, rfkill, software-properties-gtk, spice-vdagent, ubuntu-drivers-common, ubuntu-release-upgrader-gtk, ubuntu-session, ubuntu-settings, unzip, update-manager, update-notifier, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip
+Depends: alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, cvm-ui-desktop-distrologo, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, foomatic-db-compressed-ppds, gdm3, ghostscript-x, gnome-control-center, gnome-menus, gnome-session-canberra, gnome-settings-daemon, gnome-shell, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-ubuntu-dock, gstreamer1.0-alsa, gstreamer1.0-packagekit, gstreamer1.0-plugins-base-apps, gstreamer1.0-pulseaudio, inputattach, language-selector-common, language-selector-gnome, libatk-adaptor, libnotify-bin, libsasl2-modules, libu2f-udev, nautilus, openprinting-ppds, printer-driver-pnm2ppa, pulseaudio, rfkill, software-properties-gtk, spice-vdagent, ubuntu-drivers-common, ubuntu-release-upgrader-gtk, ubuntu-session, ubuntu-settings, unzip, update-manager, update-notifier, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip
 Recommends: acpi-support, apport-gtk, appstream, apt-config-icons-hidpi, avahi-autoipd, avahi-daemon, bluez, bluez-cups, brltty, cups, cups-bsd, cups-client, cups-filters, dirmngr, eog, evince, file-roller, fonts-indic, fonts-kacst-one, fonts-khmeros-core, fonts-lao, fonts-liberation, fonts-liberation2, fonts-lklug-sinhala, fonts-noto-cjk, fonts-noto-color-emoji, fonts-opensymbol, fonts-sil-abyssinica, fonts-sil-padauk, fonts-thai-tlwg, fonts-tibetan-machine, fonts-ubuntu, fwupd, fwupd-signed, gamemode, gedit, gir1.2-gmenu-3.0, gnome-accessibility-themes, gnome-bluetooth, gnome-calculator, gnome-characters, gnome-disk-utility, gnome-font-viewer, gnome-initial-setup, gnome-keyring, gnome-logs, gnome-power-manager, gnome-remote-desktop, gnome-system-monitor, gnome-terminal, gpg-agent, gsettings-ubuntu-schemas, gvfs-fuse, hplip, ibus, ibus-gtk, ibus-gtk3, ibus-table, im-config, kerneloops, laptop-detect, libglib2.0-bin, libnss-mdns, libpam-fprintd, libpam-gnome-keyring, libpam-sss, libproxy1-plugin-gsettings, libproxy1-plugin-networkmanager, libwmf0.2-7-gtk, memtest86+, mousetweaks, nautilus-sendto, nautilus-share, network-manager, network-manager-config-connectivity-ubuntu, network-manager-openvpn-gnome, network-manager-pptp-gnome, orca, packagekit, pcmciautils, plymouth-theme-spinner, policykit-desktop-privileges, printer-driver-brlaser, printer-driver-c2esp, printer-driver-foo2zjs, printer-driver-m2300w, printer-driver-min12xxw, printer-driver-ptouch, printer-driver-pxljr, printer-driver-sag-gdi, printer-driver-splix, pulseaudio-module-bluetooth, seahorse, speech-dispatcher, system-config-printer, systemd-oomd, ubuntu-docs, ubuntu-report, ubuntu-wallpapers, whoopsie, xcursor-themes, xdg-desktop-portal-gnome, xdg-desktop-portal-gtk, xdg-utils, yaru-theme-gnome-shell, yaru-theme-gtk, yaru-theme-icon, yaru-theme-sound
 Provides: packagekit-installer
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-desktop_1.481_amd64.deb
-Size: 2938
-MD5sum: f85f3f95acb6dc9fb02e6760c3d097bd
-SHA1: 3d79b469c74ec96db4476f4d313b67244d64d3fb
-SHA256: 9227b93208478d107f5cf826c448790adbb0ced7c3e7a4acc54e9d33d0eb5b97
+Size: 2948
+MD5sum: 701af977c0e77e72b05e18300a0b1c86
+SHA1: 884addcbb88cba971efa9a0213cf912fcdaadc3c
+SHA256: 146af17b804a5bd90cfb77fed7d8b0e3b4468648d0d8da24116c5fcf98d83e32
 Section: metapackages
 Priority: optional
 Description: The UbuCvm UI Desktopntu desktop system
@@ -45,9 +45,9 @@ Depends: adduser, apt, apt-utils, console-setup, debconf, debconf-i18n, e2fsprog
 Recommends: rsyslog, usrmerge
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-minimal_1.481_amd64.deb
 Size: 2094
-MD5sum: 4d31991ea702387c38f1e0a5feb16d80
-SHA1: 89ad79aa5dc82f7cf5618ac06cff80f49bb2b143
-SHA256: 91e0de2d4e3d9d3cb72124f8898634aa93e5ff1e8b6262a8f317e42cab802fcb
+MD5sum: ca4196fded0c85b5487b9020fa17a761
+SHA1: 808eed0d88ba3fc6790f94d87d41e87c9ab860a4
+SHA256: d942236f5ff23abdb75702816be1b43b1806a0c1c0ded1fb2d14891c59042c28
 Section: metapackages
 Priority: optional
 Description: Minimal core of Cvm UI Desktop
@@ -72,10 +72,10 @@ Installed-Size: 9
 Depends: bind9-dnsutils, busybox-static, cpio, cron, dmidecode, dosfstools, ed, file, ftp, hdparm, info, libpam-systemd, logrotate, lshw, lsof, man-db, media-types, nftables, parted, pciutils, psmisc, rsync, strace, time, usbutils, wget, xz-utils
 Recommends: apparmor, bash-completion, command-not-found, friendly-recovery, iptables, iputils-tracepath, irqbalance, manpages, mtr-tiny, nano, ntfs-3g, openssh-client, plymouth, plymouth-theme-ubuntu-text, tcpdump, telnet, ufw, update-manager-core, uuid-runtime
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-standard_1.481_amd64.deb
-Size: 2104
-MD5sum: 4d05ca1f04b877fb0ef2b7dc001c5a24
-SHA1: 262360c76e869c12f54a754359b5d4f594be1e5a
-SHA256: 7d4f6661934d798311d859684bf0b06b580f97235168e99cfa82e842def53849
+Size: 2108
+MD5sum: 5cf884b4d1849d606867bf7e2f9c31df
+SHA1: d666e50b1e66f70b47c7e1efee74039fd8137447
+SHA256: a49459f56fae4888d8ba87dbb5bfdcdfb93e4fcc22b34f0d465bc9b1e574ec34
 Section: metapackages
 Priority: optional
 Description: The Cvm UI Desktop standard system

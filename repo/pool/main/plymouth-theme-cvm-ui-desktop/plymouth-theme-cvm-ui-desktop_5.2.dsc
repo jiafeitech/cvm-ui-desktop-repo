@@ -15,8 +15,8 @@ Package-List:
  plymouth-theme-cvm-ui-desktop-logo deb utils optional arch=all
  plymouth-theme-cvm-ui-desktop-text deb utils optional arch=all
 Checksums-Sha1:
- f80d46b8a308cae1c7bb0b61b9d37839a1cfdc48 420802 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ dcc0b4fb665176480e243e0ed213df4ec9731bda 424145 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
 Checksums-Sha256:
- d289e3a40b7c3f117df67a7d8da540fb367310ace2492ae5439c37b1de9d8cf4 420802 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ 68db5e00835e09bccaf65c398055dff24555064c75aca392abc62336d81baf22 424145 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
 Files:
- 42cabea1e244ba90bb9e93f53a2228db 420802 plymouth-theme-cvm-ui-desktop_5.2.tar.gz
+ 2fd46681fd0e0d83ee273536f2e17d58 424145 plymouth-theme-cvm-ui-desktop_5.2.tar.gz

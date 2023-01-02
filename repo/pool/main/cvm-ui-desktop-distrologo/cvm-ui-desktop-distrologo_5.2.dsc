@@ -11,8 +11,8 @@ Build-Depends: debhelper (>= 11)
 Package-List:
  cvm-ui-desktop-distrologo deb utils optional arch=all
 Checksums-Sha1:
- 811bf1e8c1cb8272cefad16b02e791bf445afcdf 2099617 cvm-ui-desktop-distrologo_5.2.tar.gz
+ c9e5ec4b12a3b6e998f6ba77fa8c5cf807ec2ba8 2101770 cvm-ui-desktop-distrologo_5.2.tar.gz
 Checksums-Sha256:
- 5f01745f8b8554dae6c402513ea4cb0d057bbc2344521be4a7d66b43cb30caaa 2099617 cvm-ui-desktop-distrologo_5.2.tar.gz
+ 8675101a8017f030fd65b4a2dcfd6dc801a6c1e617c5872778225f50a107ef7b 2101770 cvm-ui-desktop-distrologo_5.2.tar.gz
 Files:
- 03455367e53b7625ac9376551a0dab30 2099617 cvm-ui-desktop-distrologo_5.2.tar.gz
+ 7f25db49590c0c65ccf2942cdef457dd 2101770 cvm-ui-desktop-distrologo_5.2.tar.gz

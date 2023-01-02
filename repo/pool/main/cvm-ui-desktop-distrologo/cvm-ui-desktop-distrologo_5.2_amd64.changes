@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Mon, 02 Jan 2023 11:56:45 +0700
+Date: Mon, 02 Jan 2023 19:42:41 +0700
 Source: cvm-ui-desktop-distrologo
 Binary: cvm-ui-desktop-distrologo
 Built-For-Profiles: noudeb
@@ -15,17 +15,17 @@ Changes:
  .
    * Cvm UI Desktop 5.2 Logo
 Checksums-Sha1:
- 231f31405c92b3b12c34621aefa7359b6e68e58b 759 cvm-ui-desktop-distrologo_5.2.dsc
- 811bf1e8c1cb8272cefad16b02e791bf445afcdf 2099617 cvm-ui-desktop-distrologo_5.2.tar.gz
- 98a47be38224691921019387c8607895a25665b6 1019094 cvm-ui-desktop-distrologo_5.2_all.deb
- 71bf46ba8caccb09a311156e028bc6bf11cb674e 6557 cvm-ui-desktop-distrologo_5.2_amd64.buildinfo
+ 8494b8f37892ea10722866149ff8d2cf6bb0e53d 759 cvm-ui-desktop-distrologo_5.2.dsc
+ c9e5ec4b12a3b6e998f6ba77fa8c5cf807ec2ba8 2101770 cvm-ui-desktop-distrologo_5.2.tar.gz
+ 1a6a44d577824b0112e0db97ac460fcfe4e309c4 1019170 cvm-ui-desktop-distrologo_5.2_all.deb
+ 2b44970f865e5688ab9a7bdf2320466a54e8602d 6557 cvm-ui-desktop-distrologo_5.2_amd64.buildinfo
 Checksums-Sha256:
- fc4f0ad90db626ab2fcc6dc68e72c59a0a4d6af8fc9c359aacc8402f7e018cb7 759 cvm-ui-desktop-distrologo_5.2.dsc
- 5f01745f8b8554dae6c402513ea4cb0d057bbc2344521be4a7d66b43cb30caaa 2099617 cvm-ui-desktop-distrologo_5.2.tar.gz
- 45902e6f100ac2978ca5b689f3a0b26b0368737e0dc09bc092898c4debdefdec 1019094 cvm-ui-desktop-distrologo_5.2_all.deb
- 52997dd1c98a175ba977637cce7329f458409c228647eb0038fb4ffdde0e21af 6557 cvm-ui-desktop-distrologo_5.2_amd64.buildinfo
+ d33d92b62d1884a847ede1769b2ced88fbb3bb8bac621cd33d988b3485fe6551 759 cvm-ui-desktop-distrologo_5.2.dsc
+ 8675101a8017f030fd65b4a2dcfd6dc801a6c1e617c5872778225f50a107ef7b 2101770 cvm-ui-desktop-distrologo_5.2.tar.gz
+ 20a65361cdc8c3c9c2f5f003ea235e8ed5edefb5153db76081afb1aedd266b3a 1019170 cvm-ui-desktop-distrologo_5.2_all.deb
+ 90c4a2fef9bda870d27d54b0da80a471c0144c0ff2ccc5b543aa33e6b33cdba0 6557 cvm-ui-desktop-distrologo_5.2_amd64.buildinfo
 Files:
- 51cc30315e1ec8291acf734066987413 759 utils optional cvm-ui-desktop-distrologo_5.2.dsc
- 03455367e53b7625ac9376551a0dab30 2099617 utils optional cvm-ui-desktop-distrologo_5.2.tar.gz
- 8a990397c200232aa694de0422e5d040 1019094 utils optional cvm-ui-desktop-distrologo_5.2_all.deb
- 5f15ca6971cf5cb8dc9f775254729ce8 6557 utils optional cvm-ui-desktop-distrologo_5.2_amd64.buildinfo
+ 45350874dd7c83cfc2c6b8aaebd5d9e0 759 utils optional cvm-ui-desktop-distrologo_5.2.dsc
+ 7f25db49590c0c65ccf2942cdef457dd 2101770 utils optional cvm-ui-desktop-distrologo_5.2.tar.gz
+ beeb95b760f868e38ef8f7cbb675fc97 1019170 utils optional cvm-ui-desktop-distrologo_5.2_all.deb
+ 56e532c6eae6cdc1f81d78a07d5ac997 6557 utils optional cvm-ui-desktop-distrologo_5.2_amd64.buildinfo

@@ -26,10 +26,10 @@ Architecture: all
 Maintainer: jiafeitech
 Installed-Size: 1327
 Filename: ./pool/main/cvm-ui-desktop-distrologo/cvm-ui-desktop-distrologo_5.2_all.deb
-Size: 1019094
-MD5sum: 8a990397c200232aa694de0422e5d040
-SHA1: 98a47be38224691921019387c8607895a25665b6
-SHA256: 45902e6f100ac2978ca5b689f3a0b26b0368737e0dc09bc092898c4debdefdec
+Size: 1019170
+MD5sum: beeb95b760f868e38ef8f7cbb675fc97
+SHA1: 1a6a44d577824b0112e0db97ac460fcfe4e309c4
+SHA256: 20a65361cdc8c3c9c2f5f003ea235e8ed5edefb5153db76081afb1aedd266b3a
 Section: utils
 Priority: optional
 Homepage: https://github.com/jiafeitech/cvm-ui-desktop-distrologo
@@ -108,10 +108,10 @@ Maintainer: jiafeitech
 Installed-Size: 9
 Depends: plymouth-theme-cvm-ui-desktop-bgrt, plymouth-theme-cvm-ui-desktop-text
 Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop_5.2_all.deb
-Size: 1722
-MD5sum: fed2ad6b63748e3eeb2e4baa0e6b6794
-SHA1: 47c64459167ed9dba205c08590ada021053b7c6c
-SHA256: b8e710e7f978ca73b638dd39821550231af15792da8b27444a8853b4066aba9a
+Size: 1726
+MD5sum: 5ed1f0e599b39544f07caecfe0142e65
+SHA1: b5890b330dbdbb4eaa7cc642db4e220e64bb0b0a
+SHA256: f9a127e1530d68837f4d01896105eb073d0664d6c12f850188f463b83b2fc1b9
 Section: utils
 Priority: optional
 Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
@@ -125,15 +125,15 @@ Source: plymouth-theme-cvm-ui-desktop
 Version: 5.2
 Architecture: all
 Maintainer: jiafeitech
-Installed-Size: 197
+Installed-Size: 196
 Depends: plymouth, plymouth-label, dconf-gsettings-backend | gsettings-backend
 Breaks: plymouth (<< 0.9.2-3ubuntu1~)
 Provides: plymouth-theme
 Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-bgrt_5.2_all.deb
-Size: 127256
-MD5sum: 9e676d01c4a5676cfc336479147ee2ba
-SHA1: 9eff28f0bf3201dd0e0f273eab1004cd1ac00274
-SHA256: c79612ea2992b8ded1254e1b8951f1fd28d971a4dff7d11bac2661a45044687d
+Size: 126744
+MD5sum: e4aec6be4f27b7889b53787e77a1f500
+SHA1: fc5fb60fce36965f925a8cb180936bb5c1256433
+SHA256: aed2bcb1c2b2048ef5dd1163dcff6d621abce19ebeb81489d4a55df4695f104e
 Section: utils
 Priority: optional
 Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
@@ -149,10 +149,10 @@ Depends: plymouth, plymouth-label, gettext
 Breaks: plymouth (<< 0.9.2-3ubuntu1~)
 Provides: plymouth-theme
 Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-logo_5.2_all.deb
-Size: 23626
-MD5sum: 722eee8be3b61d249dc5fceae9f79632
-SHA1: 10a100b8c4f35b9b2eaa7703f79ba74425c9515a
-SHA256: 61eea87a69d4e0a10b9f642e9fc4029a6d82943bb028b41eca61bf1593d5b277
+Size: 23660
+MD5sum: bd1cc229d8b7b86d7ad51d6147e0a50e
+SHA1: 4d6d1b53001d5d987dbd1042c1c4be82b2b39303
+SHA256: 8ab10fb6422fae8df372e67eddb86f67bfb386ac0cd07f8de0bd534deed3a981
 Section: utils
 Priority: optional
 Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/
@@ -168,10 +168,10 @@ Depends: plymouth, plymouth-theme-ubuntu-text
 Breaks: plymouth (<< 0.9.2-3ubuntu1~)
 Provides: plymouth-theme
 Filename: ./pool/main/plymouth-theme-cvm-ui-desktop/plymouth-theme-cvm-ui-desktop-text_5.2_all.deb
-Size: 2438
-MD5sum: 82d669c90fd93e51bf48f719ccf079ec
-SHA1: 73bf7c2edf820a4534af1933426f24fd8cc76bf1
-SHA256: b23c1f17040332c1c4db18c1a35263ba3b70dacb99e3220d4ca7c0f74e1d58ed
+Size: 2446
+MD5sum: ca70c03b738bfc11cea6d137f41a0f03
+SHA1: f80cbcb09abbbccbde32229132ba9a42eb7e33db
+SHA256: 09192f7aa334b42aa371e4e09078c5aa8a696d887d34f63668791a6b19ff3517
 Section: utils
 Priority: optional
 Homepage: https://github.com/jiafeitech/cvm-plymouth-theme/

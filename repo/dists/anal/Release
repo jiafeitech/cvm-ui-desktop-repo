@@ -6,13 +6,13 @@ Version: 5.2
 Architectures: amd64
 Components: main
 Description: Cvm UI Desktop 5.2 (Anal Cream) repository
-Date: Mon, 02 Jan 2023 13:21:57 +0000
+Date: Tue, 03 Jan 2023 04:59:07 +0000
 MD5Sum:
- 10d9964d797ae2d9d836ac2a7e20a966 9891 main/binary-amd64/Packages
- 5251929e6651d1a839498a142867c406 3551 main/binary-amd64/Packages.gz
+ 2a2df3b2ea9979b24529aeed8d05b3b7 9807 main/binary-amd64/Packages
+ fcfe43126e3beedcda23a3d31044776c 3547 main/binary-amd64/Packages.gz
 SHA1:
- 31a13616f4500a26898bc7dcceab39b2a8ea2d87 9891 main/binary-amd64/Packages
- 0abee71e02ec84c0ab67f87f0a9f83f87154254a 3551 main/binary-amd64/Packages.gz
+ 9a58770eb9e38960356fb4e22360433059866c4f 9807 main/binary-amd64/Packages
+ a0d4f688705c943879f6f554b744766c551093f4 3547 main/binary-amd64/Packages.gz
 SHA256:
- dd7f28fde2d7096a867f702353b4c003a23b3bb7d45713b91d678e3474a50559 9891 main/binary-amd64/Packages
- a66282a9a9e3d20ded5567399fcee48fa27b4bcaa3610c840c6d9d445f0308a6 3551 main/binary-amd64/Packages.gz
+ 75456cc67cca17b348af71fbf9ae7c25cdd8be76ace952cf9723481dcbdc6568 9807 main/binary-amd64/Packages
+ 843935ca8bbefae8f4551a558514663be562f0dc9bc640f7d8abb94b510543d0 3547 main/binary-amd64/Packages.gz

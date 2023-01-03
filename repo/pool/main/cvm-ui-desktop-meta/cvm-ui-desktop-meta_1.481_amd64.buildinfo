@@ -4,23 +4,23 @@ Binary: cvm-ui-desktop-desktop cvm-ui-desktop-minimal cvm-ui-desktop-standard
 Architecture: amd64 source
 Version: 1.481
 Checksums-Md5:
- 9ead2edce1f56ba9c73fb1822a61babb 761 cvm-ui-desktop-meta_1.481.dsc
- 29817bda50871e3ffbb8acb868e625c0 2960 cvm-ui-desktop-desktop_1.481_amd64.deb
- c083acb65e96db0a5136944f5925e054 2098 cvm-ui-desktop-minimal_1.481_amd64.deb
- ab43ec1f397b0982911034adf1ec3d24 2104 cvm-ui-desktop-standard_1.481_amd64.deb
+ 98d97b5a44d9a887dbb01d7117ff776d 761 cvm-ui-desktop-meta_1.481.dsc
+ c209b653337d7c4e04bb6b89d21b525c 2944 cvm-ui-desktop-desktop_1.481_amd64.deb
+ a4f4bf3fe3c4ec898572b6a5a42bb06e 2100 cvm-ui-desktop-minimal_1.481_amd64.deb
+ c6aabde1461f692fa4afbf6e0006117e 2122 cvm-ui-desktop-standard_1.481_amd64.deb
 Checksums-Sha1:
- feb666cf9190ea7d83a98cefb63c0e55c6174fcc 761 cvm-ui-desktop-meta_1.481.dsc
- 11ef9e121fc5fca9837d005dd2f523403cf461c9 2960 cvm-ui-desktop-desktop_1.481_amd64.deb
- 877ef5e7353094921dc6602e31727bccffad6358 2098 cvm-ui-desktop-minimal_1.481_amd64.deb
- 67416a2509e74168e7a96bc51aa57b90f6d9259d 2104 cvm-ui-desktop-standard_1.481_amd64.deb
+ 688369c5f96c219735a07cb033ab8ffb1cddd2a6 761 cvm-ui-desktop-meta_1.481.dsc
+ bbc7e6f7f6ba2499131fce57cf8d30638b4c0176 2944 cvm-ui-desktop-desktop_1.481_amd64.deb
+ f486827845ac5325faa1a630d16c636ab3fc8c0c 2100 cvm-ui-desktop-minimal_1.481_amd64.deb
+ 4c4013d515b7fc531880b51974532525d96ff52d 2122 cvm-ui-desktop-standard_1.481_amd64.deb
 Checksums-Sha256:
- 8e86490016353585d46cd80b46f98508bf6812b5abaf61948177e2578093aa1b 761 cvm-ui-desktop-meta_1.481.dsc
- 007d10807d45ee67e92f38fe72aa5698d0109979c16f404e1dd10f29dc134e8c 2960 cvm-ui-desktop-desktop_1.481_amd64.deb
- d20f35beaca4e3a8bd25dadd952b0f8c7aa74c55b496af939767f1c7a1a6fc8c 2098 cvm-ui-desktop-minimal_1.481_amd64.deb
- 0889f0aa24001b18c29dbecbe0cba9c51e79c0b611de9c01ae367d2caf39057f 2104 cvm-ui-desktop-standard_1.481_amd64.deb
+ ba34b614372298a5440ca42502a1d32678ec4402c76d599826ff790f7fa8ebe1 761 cvm-ui-desktop-meta_1.481.dsc
+ 6f7e221558b8ae12999f3b82e621690c2531147c8246994f9d2216ca5d4d8d4d 2944 cvm-ui-desktop-desktop_1.481_amd64.deb
+ 67255bbf29263b41e80abb61de8ef4f3fb65fc7d9d82629fbdfbdda6ee44ba57 2100 cvm-ui-desktop-minimal_1.481_amd64.deb
+ d111539852cc7af6bf43ef56ae6d68dd70aaf3e9ea5f1fbfd19c0a4a1f376c82 2122 cvm-ui-desktop-standard_1.481_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 02 Jan 2023 18:43:28 +0700
+Build-Date: Tue, 03 Jan 2023 11:57:31 +0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -222,4 +222,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=12"
  DEB_BUILD_PROFILES="noudeb"
  LANG="C.UTF-8"
- SOURCE_DATE_EPOCH="1672659805"
+ SOURCE_DATE_EPOCH="1672721845"

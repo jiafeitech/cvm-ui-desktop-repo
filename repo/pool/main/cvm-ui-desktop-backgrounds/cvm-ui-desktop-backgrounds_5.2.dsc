@@ -12,8 +12,8 @@ Build-Depends: debhelper-compat (= 13), dh-sequence-gnome, libglib2.0-dev, meson
 Package-List:
  cvm-ui-desktop-backgrounds deb gnome optional arch=all
 Checksums-Sha1:
- 6e328f100e434975d9e724cca800e2f50223a796 20645900 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 965bc64ec3ebdfcc0ee1e384745d5709e306d17a 4799684 cvm-ui-desktop-backgrounds_5.2.tar.xz
 Checksums-Sha256:
- fd896150cba4bc1143603744a06015b22f4752c199b8b05749b0f952cbd6245c 20645900 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 37fdfd52d9032a466c229eb7a807824ea048048cd92e6015a2e67b7de7c8e8b4 4799684 cvm-ui-desktop-backgrounds_5.2.tar.xz
 Files:
- a8463c73d8cbb8a41813d95bfbd0fa3b 20645900 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 87375e8ec8544197c37276526cff3270 4799684 cvm-ui-desktop-backgrounds_5.2.tar.xz

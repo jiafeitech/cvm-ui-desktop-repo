@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 03 Jan 2023 15:52:06 +0700
+Source: cvm-ui-desktop-backgrounds
+Binary: cvm-ui-desktop-backgrounds
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 5.2
+Distribution: jammy
+Urgency: low
+Maintainer: jiafeitech
+Description:
+ cvm-ui-desktop-backgrounds - Collection of light and dark backgrounds for Cvm UI Desktop.
+Changes:
+ cvm-ui-desktop-backgrounds (5.2) jammy; urgency=low
+ .
+   * First release
+Checksums-Sha1:
+ 20bb9f1ad3b221f0abf86c4492e5bd0623daf36f 864 cvm-ui-desktop-backgrounds_5.2.dsc
+ 6e328f100e434975d9e724cca800e2f50223a796 20645900 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 37744dac4c7c009861f5500aea909e43f2958bbc 20639214 cvm-ui-desktop-backgrounds_5.2_all.deb
+ 71bd4652d43a63c3f790ee9857bfa55e88420587 10690 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
+Checksums-Sha256:
+ b77ed4bb1e235329c44cd271eeb5389e28f79281009eb73211a57cbb3af68067 864 cvm-ui-desktop-backgrounds_5.2.dsc
+ fd896150cba4bc1143603744a06015b22f4752c199b8b05749b0f952cbd6245c 20645900 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 6aa6c3aa8bad59670e816d11d1a66779f1a57abf25a5a20d8cf61f10be0def35 20639214 cvm-ui-desktop-backgrounds_5.2_all.deb
+ bf70ec7a4520a2a50d0bf260945a732bedb6040aedd23f2431289cb921e533c9 10690 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
+Files:
+ 1cf70ae7ca34826a4656b469f48556f2 864 gnome optional cvm-ui-desktop-backgrounds_5.2.dsc
+ a8463c73d8cbb8a41813d95bfbd0fa3b 20645900 gnome optional cvm-ui-desktop-backgrounds_5.2.tar.xz
+ b5a444756c537ebf4400ee469e5e4357 20639214 gnome optional cvm-ui-desktop-backgrounds_5.2_all.deb
+ 89366e6d1860dcc2f7510f459db1435a 10690 gnome optional cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo

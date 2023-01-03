@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Tue, 03 Jan 2023 11:57:31 +0700
+Date: Tue, 03 Jan 2023 21:25:20 +0700
 Source: cvm-ui-desktop-meta
 Binary: cvm-ui-desktop-desktop cvm-ui-desktop-minimal cvm-ui-desktop-standard
 Built-For-Profiles: noudeb
@@ -15,23 +15,23 @@ Description:
 Changes:
  cvm-ui-desktop-meta (1.481) jammy; urgency=medium
 Checksums-Sha1:
- 688369c5f96c219735a07cb033ab8ffb1cddd2a6 761 cvm-ui-desktop-meta_1.481.dsc
- d510c4097c3ae5a1a064f83f221b9ab4d58c4946 3924 cvm-ui-desktop-meta_1.481.tar.xz
- bbc7e6f7f6ba2499131fce57cf8d30638b4c0176 2944 cvm-ui-desktop-desktop_1.481_amd64.deb
- 790a6d9cbde0251ac18746993acf59e81d105418 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
- f486827845ac5325faa1a630d16c636ab3fc8c0c 2100 cvm-ui-desktop-minimal_1.481_amd64.deb
- 4c4013d515b7fc531880b51974532525d96ff52d 2122 cvm-ui-desktop-standard_1.481_amd64.deb
+ 43c6e39107a0a39d6a313d3d81c65e20d8d791a0 761 cvm-ui-desktop-meta_1.481.dsc
+ c6c16667e0d01594b3966444df5dc3fc6c9cbcc9 4032 cvm-ui-desktop-meta_1.481.tar.xz
+ 9151656af5b36aae21743b4cb71b6a8aa5588a2d 3040 cvm-ui-desktop-desktop_1.481_amd64.deb
+ d043fee237236ffb6e7fd3fa1fa6afe262ba4535 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 6de5edd4320b4b85fe4f3fa17c695f5677eca83c 2092 cvm-ui-desktop-minimal_1.481_amd64.deb
+ 4b7b1e6d8d66d3f2ffda64c28be1bccd792086f4 2122 cvm-ui-desktop-standard_1.481_amd64.deb
 Checksums-Sha256:
- ba34b614372298a5440ca42502a1d32678ec4402c76d599826ff790f7fa8ebe1 761 cvm-ui-desktop-meta_1.481.dsc
- 482fcdd719d5559564f0bcb98a167a5d41963b8dee53b0dab70ec92b1249b83a 3924 cvm-ui-desktop-meta_1.481.tar.xz
- 6f7e221558b8ae12999f3b82e621690c2531147c8246994f9d2216ca5d4d8d4d 2944 cvm-ui-desktop-desktop_1.481_amd64.deb
- af97199031e7f9a9d45749c79fd5e49063f06c2342716575e503e046340dcdf7 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
- 67255bbf29263b41e80abb61de8ef4f3fb65fc7d9d82629fbdfbdda6ee44ba57 2100 cvm-ui-desktop-minimal_1.481_amd64.deb
- d111539852cc7af6bf43ef56ae6d68dd70aaf3e9ea5f1fbfd19c0a4a1f376c82 2122 cvm-ui-desktop-standard_1.481_amd64.deb
+ ac5c7c535115e1e4d4037d9779cc8b528ffec4ec59b2b2fed50c57292d52b152 761 cvm-ui-desktop-meta_1.481.dsc
+ cbe1ce3ef9c9c6dbe36dc7574bf5d2c15a05478d8c148d916356e32c026db11e 4032 cvm-ui-desktop-meta_1.481.tar.xz
+ 25b9c5fec08bbf5c95efaf0340f1684a736044098d15b94d68159feda28960be 3040 cvm-ui-desktop-desktop_1.481_amd64.deb
+ f7a4f89891915c41122945033479427f308a5a99f96f1904041110a9d5f43aa0 7834 cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 792da9781bd5058d7e2b8fdcb39765c3c307af2f2a94fd3a84fc2691ad326264 2092 cvm-ui-desktop-minimal_1.481_amd64.deb
+ 2e48e2d4709ccf3df332de1b9f420b4dde041c921c03cbb59bdf2fb4a5865273 2122 cvm-ui-desktop-standard_1.481_amd64.deb
 Files:
- 98d97b5a44d9a887dbb01d7117ff776d 761 metapackages optional cvm-ui-desktop-meta_1.481.dsc
- 515b6e4c39a0dda15698ddfad3ed9ccc 3924 metapackages optional cvm-ui-desktop-meta_1.481.tar.xz
- c209b653337d7c4e04bb6b89d21b525c 2944 metapackages optional cvm-ui-desktop-desktop_1.481_amd64.deb
- 433d06c769f3d6e47d19abf89c5b90b2 7834 metapackages optional cvm-ui-desktop-meta_1.481_amd64.buildinfo
- a4f4bf3fe3c4ec898572b6a5a42bb06e 2100 metapackages optional cvm-ui-desktop-minimal_1.481_amd64.deb
- c6aabde1461f692fa4afbf6e0006117e 2122 metapackages optional cvm-ui-desktop-standard_1.481_amd64.deb
+ 12898e3e8f538c8b5d5ddb5db0cb7421 761 metapackages optional cvm-ui-desktop-meta_1.481.dsc
+ 072dad1bd76fe16b6f02f91435c2d8dd 4032 metapackages optional cvm-ui-desktop-meta_1.481.tar.xz
+ a84b7028d28c3cceaf462225a02695ec 3040 metapackages optional cvm-ui-desktop-desktop_1.481_amd64.deb
+ f56a52a278b78bdf5261e470e94662e8 7834 metapackages optional cvm-ui-desktop-meta_1.481_amd64.buildinfo
+ 18e808422be377f375e2a5ade49b7340 2092 metapackages optional cvm-ui-desktop-minimal_1.481_amd64.deb
+ bb6728b4c68d1d80dd8c6513b7cb2966 2122 metapackages optional cvm-ui-desktop-standard_1.481_amd64.deb

@@ -20,14 +20,14 @@ Version: 1.481
 Architecture: amd64
 Maintainer: jiafeitech
 Installed-Size: 9
-Depends: alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, cvm-ui-desktop-distrologo, dmz-cursor-theme, fonts-dejavu-core, fonts-freefont-ttf, foomatic-db-compressed-ppds, gdm3, ghostscript-x, gnome-control-center, gnome-menus, gnome-session-canberra, gnome-settings-daemon, gnome-shell, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extension-ubuntu-dock, gstreamer1.0-alsa, gstreamer1.0-packagekit, gstreamer1.0-plugins-base-apps, gstreamer1.0-pulseaudio, inputattach, language-selector-common, language-selector-gnome, libatk-adaptor, libnotify-bin, libsasl2-modules, libu2f-udev, nautilus, openprinting-ppds, printer-driver-pnm2ppa, pulseaudio, rfkill, software-properties-gtk, spice-vdagent, ubuntu-drivers-common, ubuntu-release-upgrader-gtk, ubuntu-session, ubuntu-settings, unzip, update-manager, update-notifier, wireless-tools, wpasupplicant, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip
-Recommends: acpi-support, apport-gtk, appstream, apt-config-icons-hidpi, avahi-autoipd, avahi-daemon, bluez, bluez-cups, brltty, cups, cups-bsd, cups-client, cups-filters, dirmngr, eog, evince, file-roller, fonts-indic, fonts-kacst-one, fonts-khmeros-core, fonts-lao, fonts-liberation, fonts-liberation2, fonts-lklug-sinhala, fonts-noto-cjk, fonts-noto-color-emoji, fonts-opensymbol, fonts-sil-abyssinica, fonts-sil-padauk, fonts-thai-tlwg, fonts-tibetan-machine, fonts-ubuntu, fwupd, fwupd-signed, gamemode, gedit, gir1.2-gmenu-3.0, gnome-accessibility-themes, gnome-bluetooth, gnome-calculator, gnome-characters, gnome-disk-utility, gnome-font-viewer, gnome-initial-setup, gnome-keyring, gnome-logs, gnome-power-manager, gnome-remote-desktop, gnome-system-monitor, gnome-terminal, gpg-agent, gsettings-ubuntu-schemas, gvfs-fuse, hplip, ibus, ibus-gtk, ibus-gtk3, ibus-table, im-config, kerneloops, laptop-detect, libglib2.0-bin, libnss-mdns, libpam-fprintd, libpam-gnome-keyring, libpam-sss, libproxy1-plugin-gsettings, libproxy1-plugin-networkmanager, libwmf0.2-7-gtk, memtest86+, mousetweaks, nautilus-sendto, nautilus-share, network-manager, network-manager-config-connectivity-ubuntu, network-manager-openvpn-gnome, network-manager-pptp-gnome, orca, packagekit, pcmciautils, policykit-desktop-privileges, printer-driver-brlaser, printer-driver-c2esp, printer-driver-foo2zjs, printer-driver-m2300w, printer-driver-min12xxw, printer-driver-ptouch, printer-driver-pxljr, printer-driver-sag-gdi, printer-driver-splix, pulseaudio-module-bluetooth, seahorse, speech-dispatcher, system-config-printer, systemd-oomd, ubuntu-docs, ubuntu-report, ubuntu-wallpapers, whoopsie, xcursor-themes, xdg-desktop-portal-gnome, xdg-desktop-portal-gtk, xdg-utils, yaru-theme-gnome-shell, yaru-theme-gtk, yaru-theme-icon, yaru-theme-sound
+Depends: adwaita-icon-theme-full, alsa-base, alsa-utils, anacron, at-spi2-core, bc, ca-certificates, chrome-gnome-shell, cvm-ui-desktop-backgrounds, cvm-ui-desktop-distrologo, dconf-editor, fonts-cantarell, fonts-dejavu-core, fonts-freefont-ttf, foomatic-db-compressed-ppds, gdm3, genisoimage, ghostscript-x, gnome-color-manager, gnome-control-center, gnome-menus, gnome-online-accounts, gnome-online-miners, gnome-session, gnome-session-canberra, gnome-settings-daemon, gnome-shell, gnome-shell-extension-appindicator, gnome-shell-extension-desktop-icons-ng, gnome-shell-extensions, gnome-themes-extra, gnome-tweaks, gnome-user-docs, gnome-user-share, gsettings-desktop-schemas, gstreamer1.0-alsa, gstreamer1.0-plugins-base-apps, gstreamer1.0-pulseaudio, inputattach, libatk-adaptor, libnotify-bin, libsasl2-modules, libu2f-udev, mutter, network-manager, openprinting-ppds, printer-driver-pnm2ppa, pulseaudio, rfkill, software-properties-gtk, spice-vdagent, ssh-askpass-gnome, system-config-printer-common, system-config-printer-udev, tracker, ubuntu-drivers-common, ubuntu-release-upgrader-gtk, unzip, update-manager, update-notifier, vanilla-gnome-default-settings, wireless-tools, wpasupplicant, xdg-desktop-portal-gnome, xdg-user-dirs, xdg-user-dirs-gtk, xkb-data, xorg, yelp, zenity, zip, zsync
+Recommends: acpi-support, aisleriot, apport-gtk, apt-config-icons-hidpi, avahi-autoipd, avahi-daemon, baobab, bluez, bluez-cups, brltty, cheese, cups, cups-bsd, cups-client, cups-filters, deja-dup, dirmngr, eog, evince, exfatprogs, file-roller, flatpak, fonts-indic, fonts-kacst-one, fonts-khmeros-core, fonts-lao, fonts-liberation, fonts-lklug-sinhala, fonts-noto-cjk, fonts-sil-abyssinica, fonts-sil-padauk, fonts-thai-tlwg, fonts-tibetan-machine, fonts-ubuntu, fwupd, fwupd-signed, gedit, gnome-accessibility-themes, gnome-bluetooth, gnome-calculator, gnome-calendar, gnome-characters, gnome-contacts, gnome-disk-utility, gnome-font-viewer, gnome-initial-setup, gnome-keyring, gnome-logs, gnome-maps, gnome-music, gnome-photos, gnome-software, gnome-software-plugin-flatpak, gnome-system-monitor, gnome-terminal, gnome-weather, gpg-agent, gvfs-fuse, hplip, ibus, ibus-gtk, ibus-gtk3, ibus-table, im-config, ji-music, kerneloops, laptop-detect, libglib2.0-bin, libnss-mdns, libpam-gnome-keyring, libproxy1-plugin-gsettings, libproxy1-plugin-networkmanager, libwmf0.2-7-gtk, memtest86+, mousetweaks, nautilus, nautilus-extension-brasero, nautilus-sendto, nautilus-share, network-manager-config-connectivity-ubuntu, network-manager-openvpn-gnome, network-manager-pptp-gnome, orca, packagekit, pcmciautils, policykit-desktop-privileges, ppa-purge, printer-driver-brlaser, printer-driver-c2esp, printer-driver-foo2zjs, printer-driver-m2300w, printer-driver-min12xxw, printer-driver-ptouch, printer-driver-pxljr, printer-driver-sag-gdi, printer-driver-splix, pulseaudio-module-bluetooth, seahorse, simple-scan, speech-dispatcher, totem, transmission-gtk, ubuntu-gnome-wallpapers, usb-creator-gtk, vino, whoopsie, xdg-utils
 Provides: packagekit-installer
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-desktop_1.481_amd64.deb
-Size: 2944
-MD5sum: c209b653337d7c4e04bb6b89d21b525c
-SHA1: bbc7e6f7f6ba2499131fce57cf8d30638b4c0176
-SHA256: 6f7e221558b8ae12999f3b82e621690c2531147c8246994f9d2216ca5d4d8d4d
+Size: 3040
+MD5sum: a84b7028d28c3cceaf462225a02695ec
+SHA1: 9151656af5b36aae21743b4cb71b6a8aa5588a2d
+SHA256: 25b9c5fec08bbf5c95efaf0340f1684a736044098d15b94d68159feda28960be
 Section: metapackages
 Priority: optional
 Description: The UbuCvm UI Desktopntu desktop system
@@ -60,10 +60,10 @@ Installed-Size: 9
 Depends: adduser, apt, apt-utils, console-setup, debconf, debconf-i18n, e2fsprogs, eject, init, iproute2, iputils-ping, isc-dhcp-client, kbd, kmod, less, locales, lsb-release, mawk, mount, netbase, netcat-openbsd, netplan.io, passwd, procps, python3, sensible-utils, sudo, tzdata, ubuntu-advantage-tools, ubuntu-keyring, udev, vim-tiny, whiptail
 Recommends: rsyslog, usrmerge
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-minimal_1.481_amd64.deb
-Size: 2100
-MD5sum: a4f4bf3fe3c4ec898572b6a5a42bb06e
-SHA1: f486827845ac5325faa1a630d16c636ab3fc8c0c
-SHA256: 67255bbf29263b41e80abb61de8ef4f3fb65fc7d9d82629fbdfbdda6ee44ba57
+Size: 2092
+MD5sum: 18e808422be377f375e2a5ade49b7340
+SHA1: 6de5edd4320b4b85fe4f3fa17c695f5677eca83c
+SHA256: 792da9781bd5058d7e2b8fdcb39765c3c307af2f2a94fd3a84fc2691ad326264
 Section: metapackages
 Priority: optional
 Description: Minimal core of Cvm UI Desktop
@@ -89,9 +89,9 @@ Depends: bind9-dnsutils, busybox-static, cpio, cron, dmidecode, dosfstools, ed, 
 Recommends: apparmor, bash-completion, command-not-found, friendly-recovery, iptables, iputils-tracepath, irqbalance, manpages, mtr-tiny, nano, ntfs-3g, openssh-client, plymouth, plymouth-theme-cvm-ui-desktop, plymouth-theme-spinner, tcpdump, telnet, ufw, update-manager-core, uuid-runtime
 Filename: ./pool/main/cvm-ui-desktop-meta/cvm-ui-desktop-standard_1.481_amd64.deb
 Size: 2122
-MD5sum: c6aabde1461f692fa4afbf6e0006117e
-SHA1: 4c4013d515b7fc531880b51974532525d96ff52d
-SHA256: d111539852cc7af6bf43ef56ae6d68dd70aaf3e9ea5f1fbfd19c0a4a1f376c82
+MD5sum: bb6728b4c68d1d80dd8c6513b7cb2966
+SHA1: 4b7b1e6d8d66d3f2ffda64c28be1bccd792086f4
+SHA256: 2e48e2d4709ccf3df332de1b9f420b4dde041c921c03cbb59bdf2fb4a5865273
 Section: metapackages
 Priority: optional
 Description: The Cvm UI Desktop standard system

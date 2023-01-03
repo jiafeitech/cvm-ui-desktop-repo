@@ -2,12 +2,12 @@ Package: cvm-ui-desktop-backgrounds
 Version: 5.2
 Architecture: all
 Maintainer: jiafeitech
-Installed-Size: 4814
+Installed-Size: 4815
 Filename: ./pool/main/cvm-ui-desktop-backgrounds/cvm-ui-desktop-backgrounds_5.2_all.deb
-Size: 4820772
-MD5sum: 638ffcc8c8f62a67a6843ec7df74bbbf
-SHA1: 0af082497d2bfcac82a1c6fc4f6c6e07f911575b
-SHA256: e1fefb2ddf1482f95dc52f0e5cb00acbf17bf2d7271e9cc0aae43dd13f7b1c8f
+Size: 4820778
+MD5sum: 000f66634c6b478647e7d6356854f929
+SHA1: 4a2cbaa93b79676104c8e5da062f7ee6f38b68a0
+SHA256: 82b664491b0ad75bc229ab6a3a0a4dcf013cbbc92e04c3a342e775ebce7ad637
 Section: gnome
 Priority: optional
 Multi-Arch: foreign

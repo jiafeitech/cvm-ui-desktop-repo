@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Tue, 03 Jan 2023 16:26:24 +0700
+Date: Tue, 03 Jan 2023 16:38:10 +0700
 Source: cvm-ui-desktop-backgrounds
 Binary: cvm-ui-desktop-backgrounds
 Built-For-Profiles: noudeb
@@ -15,17 +15,17 @@ Changes:
  .
    * First release
 Checksums-Sha1:
- 8aaa0e8e83364581af85d5d8c943bbb7193a91b0 861 cvm-ui-desktop-backgrounds_5.2.dsc
- 965bc64ec3ebdfcc0ee1e384745d5709e306d17a 4799684 cvm-ui-desktop-backgrounds_5.2.tar.xz
- 0af082497d2bfcac82a1c6fc4f6c6e07f911575b 4820772 cvm-ui-desktop-backgrounds_5.2_all.deb
- ff3f8a3f5e557483e83136c5b277ab23767d2568 10687 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
+ 05cf45f3ab64d4fc55e1327045ef455d4bd0b976 861 cvm-ui-desktop-backgrounds_5.2.dsc
+ af11bfe11a7714104ab7e0094ea420fad44094bc 4799748 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 4a2cbaa93b79676104c8e5da062f7ee6f38b68a0 4820778 cvm-ui-desktop-backgrounds_5.2_all.deb
+ f6ef1839c47a7e76c60292af8e33fcf97fa14129 10687 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
 Checksums-Sha256:
- 12e8fa4f5eb8fb2691358641e35c96225e811be79a43103ff56dc36bb4b75265 861 cvm-ui-desktop-backgrounds_5.2.dsc
- 37fdfd52d9032a466c229eb7a807824ea048048cd92e6015a2e67b7de7c8e8b4 4799684 cvm-ui-desktop-backgrounds_5.2.tar.xz
- e1fefb2ddf1482f95dc52f0e5cb00acbf17bf2d7271e9cc0aae43dd13f7b1c8f 4820772 cvm-ui-desktop-backgrounds_5.2_all.deb
- 8a7aeb1310ed59369a6fc3f0ed6aff95b797f2b74e8e7cef29ea61e290e8a445 10687 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
+ 2a1bfe09ee5e0d6a3d23805b451689d2ad752c59fd496dd4063a55d84a0439c7 861 cvm-ui-desktop-backgrounds_5.2.dsc
+ 493acda715b5f036e2fcf4a12524b5753938af9672c1381c4b7c1308774861ef 4799748 cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 82b664491b0ad75bc229ab6a3a0a4dcf013cbbc92e04c3a342e775ebce7ad637 4820778 cvm-ui-desktop-backgrounds_5.2_all.deb
+ bb03402ac32d684e89a7fb952941deb20cf529e12a096577e05536599f36d56a 10687 cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
 Files:
- 3b315f7a76e906c0d20abccbd2a6d25f 861 gnome optional cvm-ui-desktop-backgrounds_5.2.dsc
- 87375e8ec8544197c37276526cff3270 4799684 gnome optional cvm-ui-desktop-backgrounds_5.2.tar.xz
- 638ffcc8c8f62a67a6843ec7df74bbbf 4820772 gnome optional cvm-ui-desktop-backgrounds_5.2_all.deb
- a67b88f63b59b0d4499ffcf8f3514ce2 10687 gnome optional cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
+ fb6a5e41ec6979ff6b8341417ea6a9da 861 gnome optional cvm-ui-desktop-backgrounds_5.2.dsc
+ eab3dcc6771d4dace00689ef6f633bef 4799748 gnome optional cvm-ui-desktop-backgrounds_5.2.tar.xz
+ 000f66634c6b478647e7d6356854f929 4820778 gnome optional cvm-ui-desktop-backgrounds_5.2_all.deb
+ 526fba08b06243855d86f27f2762bddd 10687 gnome optional cvm-ui-desktop-backgrounds_5.2_amd64.buildinfo
